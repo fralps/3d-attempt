@@ -1,0 +1,11 @@
+/* Main styles */
+body {
+  cursor: pointer;
+  margin: 0;
+  overflow: hidden;
+}
+
+canvas {
+  height: 100%;
+  width: 100%;
+}
